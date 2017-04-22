@@ -1,0 +1,17 @@
+Current supply: 
+10M
+
+Contract Address:
+0x008c85D446F8Ea5fD6361894B5ABf926E94EA964
+
+Ethereum dev address:
+0x339167d8b4F261A8917820f791A37f6611d023d2
+
+Waves dev address:
+3P6u4WKcTzyTHNCwUGGq8Tv9N8Y2h1BwtWN
+
+Asset ID:
+9pPVf3gcLH3NQA2aYVRcTV2N2i32qBzA5cEMWYqBYfMi
+
+Exchanger address:
+0x3af8149866bf2ab6600e5c1c9a0067547b24e398
